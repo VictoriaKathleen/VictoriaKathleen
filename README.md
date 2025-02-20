@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Victoria Kathleen and I'm a back-end, from ....</h2>
+<h2 align="left">Hi 👋! My name is Victoria Kathleen and I'm a back-end, from Python</h2>
 
 ###
 
